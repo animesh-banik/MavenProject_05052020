@@ -8,7 +8,7 @@ public class Java_project {
         System.out.println("Code added from Branch1");
         
         UpdateFromClone1 abc = new UpdateFromClone1();
-        abc.getval();
+        abc.getval1();
 	}
 
 }

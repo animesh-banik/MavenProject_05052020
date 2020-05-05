@@ -1,0 +1,16 @@
+package com.java.mavenproject.mavenproject;
+
+public class UpdateFromClone1 {
+
+	
+	public  void getval1()
+	{
+		
+			System.out.println("Update from from clone1 Branch1 for pull request.");
+			System.out.println("Update from from clone1 Branch1 for pull request.");
+			System.out.println("Update from from clone1 Branch1 for pull request.");
+			System.out.println("Update from from clone1 Branch1 for pull request.");
+	
+		}
+	
+}
