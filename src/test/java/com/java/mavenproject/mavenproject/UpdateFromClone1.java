@@ -18,4 +18,9 @@ public class UpdateFromClone1 {
 		System.out.println("Update from from clone1 Branch1 for pull request:Clone-1");
 	}
 	
+	public void revert()
+	{
+		System.out.println("Check Revert funtionality");
+		
+	}
 }
