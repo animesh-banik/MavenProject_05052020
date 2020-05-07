@@ -10,13 +10,12 @@ public class Java_project {
         UpdateFromClone1 abc = new UpdateFromClone1();
         abc.getval1();
         abc.getval2();
-<<<<<<< HEAD
-=======
+
         
         UpdateFromClone2 abcd = new UpdateFromClone2();
         abcd.getval1();
         abcd.getval2();
->>>>>>> parent of 52cf0a1... branch
+
 	}
 
 }
