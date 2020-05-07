@@ -13,4 +13,9 @@ public class UpdateFromClone1 {
 	
 		}
 	
+	public void getval2()
+	{
+		System.out.println("Update from from clone1 Branch1 for pull request:Function-2");
+	}
+	
 }

@@ -9,6 +9,7 @@ public class Java_project {
         
         UpdateFromClone1 abc = new UpdateFromClone1();
         abc.getval1();
+        abc.getval2();
 	}
 
 }
