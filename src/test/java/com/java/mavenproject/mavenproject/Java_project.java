@@ -8,6 +8,7 @@ public class Java_project {
         System.out.println("Code added from Branch1");
         System.out.println("Code added from Branch1");
         System.out.println("Code added from Branch1");
+        System.out.println("Code added from Branch111111");
         UpdateFromClone1 abc = new UpdateFromClone1();
         
         abc.getval1();
@@ -19,6 +20,7 @@ public class Java_project {
         UpdateFromClone2 abcd = new UpdateFromClone2();
         abcd.getval1();
         abcd.getval2();
+        abcd.revert2();
 
 
 	}
