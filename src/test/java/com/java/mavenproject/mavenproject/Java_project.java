@@ -37,6 +37,9 @@ public class Java_project {
         
         Dev2_Funtionality dev3= new Dev2_Funtionality();
         dev3.getval_dev2();
+        
+        Dev1_funtionality3 dev13= new Dev1_funtionality3();
+        dev13.getval_dev13();
 	}
 
 }
