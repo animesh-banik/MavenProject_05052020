@@ -7,11 +7,17 @@ public class Java_project {
         System.out.println("Code added from master");
         System.out.println("Code added from Branch1");
         System.out.println("Code added from Branch1");
+<<<<<<< HEAD
         
         UpdateFromClone1 abc = new UpdateFromClone2();
         System.out.println("Code added from Branch1");
         UpdateFromClone1 abc = new UpdateFromClone1();
 
+=======
+        System.out.println("Code added from Branch1");
+        UpdateFromClone1 abc = new UpdateFromClone1();
+        
+>>>>>>> f7f5a546200b7a38536c9b18ef5c2ee78864aa5a
         abc.getval1();
         abc.getval2();
         abc.revert1();
