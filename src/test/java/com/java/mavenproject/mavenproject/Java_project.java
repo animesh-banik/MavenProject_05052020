@@ -22,7 +22,11 @@ public class Java_project {
         abcd.getval2();
         abcd.revert2();
 
-
+        UpdateFromClone2 test = new UpdateFromClone2();
+        test.getval1();
+        
+        Dev1_funtionality dev1= new Dev1_funtionality();
+        dev1.getval_dev1();
 	}
 
 }
