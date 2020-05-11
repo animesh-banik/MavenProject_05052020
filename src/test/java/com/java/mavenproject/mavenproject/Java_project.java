@@ -40,6 +40,9 @@ public class Java_project {
         
         Dev1_funtionality3 dev13= new Dev1_funtionality3();
         dev13.getval_dev13();
+        
+        Dev1_funtionality4 dev14= new Dev1_funtionality4();
+        dev14.getval_dev14();
 	}
 
 }
