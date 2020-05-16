@@ -52,6 +52,10 @@ public class Java_project {
 //        
         Dev1_funtionality4 dev14= new Dev1_funtionality4();
         dev14.getval_dev14();
+        
+        Dev2_funtionality2 dev22= new Dev2_funtionality2();
+        dev22.getval_dev22();
+        		
 //
 //=======
 //>>>>>>> parent of e867f68... Add1
