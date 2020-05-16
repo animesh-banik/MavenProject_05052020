@@ -40,11 +40,11 @@ public class Java_project {
 //<<<<<<< HEAD
 //
 //        
-////        Dev1_funtionality3 dev13= new Dev1_funtionality3();
-////        dev13.getval_dev13();
+        Dev1_Funtionality3 dev13= new Dev1_Funtionality3();
+        dev13.getval_dev12_new();
 //        
-//        Dev1_funtionality4 dev14= new Dev1_funtionality4();
-//        dev14.getval_dev14();
+        Dev1_funtionality4 dev14= new Dev1_funtionality4();
+        dev14.getval_dev14();
 //
 //=======
 //>>>>>>> parent of e867f68... Add1
